@@ -17,7 +17,7 @@ Project Members: Angela, Maithreya, Ting-Yong
 
 ## 💻 Set Up
 
-Clone it <3
+Clone this repo :o <3
 
 ##  💌 Notion
 https://aquamarine-handbell-a5f.notion.site/AvoTox-12a4440fee584bc6a66c750a9ea82f3b?pvs=4
